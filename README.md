@@ -1,15 +1,22 @@
-### <h1>Hi there! 👋</h1>
-<h2>😄 About Me:</h2> <br>
-<p> I'm Catherine Wickham, and an ex-scientist turned coding-fanatic looking for an opportunity to break into the software development field. I discovered coding while working with Python for bioinformatics applications, and realized that I loved the precision of solving code problems far more than the convoluted biological problems I was dealing with. I'm currently building my skills in frontend development to get started in the tech field, but my long-term goal is to become a full stack software engineer.</p>
+# Hi there! 👋
+ <br>
 
-<br>
+### 😄 About Me:<br>
+<p> I'm Catherine Wickham - ex-scientist and newly converted coding-fanatic. I'm currently building my skills in frontend development to get started in the tech field, but my long-term goal is to become a full stack software engineer.</p><br>
+
+### 🌱 I’m currently learning:<br>
+ - HTML, CSS & JavaScript
+ - Python
+ <br>
+ 
+### 📫 How to reach me:<br>
+Feel free to drop me an email, or check out my LinkedIn profile using the links below
 
 <a href="https://www.linkedin.com/in/catherine-wickham-70b037258/">![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto: cathhwickham@gmail.com">![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)</a>
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-
-  
-  
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)<br>
+<br>
+ 
 <!--
 **CatherineWickham/CatherineWickham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
