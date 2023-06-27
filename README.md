@@ -4,8 +4,14 @@
 ### 😄 About Me:<br>
 <p> I'm Catherine Wickham - ex-scientist and newly converted coding-fanatic. I'm currently building my skills in frontend development to get started in the tech field, but my long-term goal is to become a full stack software engineer.</p><br>
 
+### ⚡ Technical Skills:<br>
+ - HTML
+ - CSS
+ - Vanilla JavaScript
+ <br>
+
 ### 🌱 I’m currently learning:<br>
- - HTML, CSS & JavaScript
+ - React and other JS frameworks
  - Python
  <br>
  
